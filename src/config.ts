@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "QQ: 1650607635",
 			icon: "simple-icons:tencentqq",
-			url: "https://wpa.qq.com/msgrd?v=3&uin=1650607635&site=qq&menu=yes",
+			url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1650607635",
 		},
 	],
 };
