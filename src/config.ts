@@ -62,6 +62,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/yono173",
 		},
+		{
+			name: "QQ: 1650607635",
+			icon: "simple-icons:tencentqq",
+			url: "https://qm.qq.com/q/1650607635",
+		},
 	],
 };
 
